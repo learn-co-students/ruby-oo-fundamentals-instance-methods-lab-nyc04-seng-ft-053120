@@ -1,5 +1,4 @@
 class Dog
-
     #intance methods
     def bark
         puts "Woof!"

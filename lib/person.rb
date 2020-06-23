@@ -1,5 +1,4 @@
 class Person
-
     #intance methods
     def talk 
         puts "Hello World!"
